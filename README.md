@@ -20,3 +20,7 @@ I used Java to develop the application and Java Swing to implement the graphical
 - **Course:** Programming
 - **Year:** 2024
 - **Semester:** Spring Semester
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
+
